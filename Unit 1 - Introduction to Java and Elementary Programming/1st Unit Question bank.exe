@@ -1,0 +1,14 @@
+1] Introduction to Java and Elementary Programming
+
+1. Write a program to display "Hello, World!" in Java.
+2. Create a program to take input for your name and display "Welcome, [name]".
+3. Write a program to demonstrate the use of variables, constants, and data types.
+4. Perform arithmetic operations (add, subtract, multiply, divide) on two integers.
+5. Demonstrate type conversion between int, float, and double.
+6. Write a program to evaluate an expression with operator precedence.
+7. Create a program to demonstrate the use of logical operators.
+8. Write a program to check if a given year is a leap year.
+9. Implement a program to swap two numbers using a third variable and without using a third
+variable.
+10. Write a program to calculate the area of a circle given its radius. 
+
